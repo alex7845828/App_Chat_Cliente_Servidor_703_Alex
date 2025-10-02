@@ -1,0 +1,31 @@
+{
+  "name": "chatnodealexis",
+  "version": "1.0.0",
+  "description": "Practica de evaluacion primer parcial cliente-servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex7845828/App_Chat_Cliente_Servidor_703_Alex.git"
+  },
+  "keywords": [
+    "chat",
+    "sockets"
+  ],
+  "author": "Alexis De Jesus Gonzalez, 703 TESSFP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex7845828/App_Chat_Cliente_Servidor_703_Alex/issues"
+  },
+  "homepage": "https://github.com/alex7845828/App_Chat_Cliente_Servidor_703_Alex#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
